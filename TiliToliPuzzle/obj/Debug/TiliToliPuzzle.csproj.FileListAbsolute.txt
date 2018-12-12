@@ -1,0 +1,10 @@
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\bin\Debug\TiliToliPuzzle.exe.config
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\bin\Debug\TiliToliPuzzle.exe
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\bin\Debug\TiliToliPuzzle.pdb
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\obj\Debug\TiliToliPuzzle.csprojAssemblyReference.cache
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\obj\Debug\TiliToliPuzzle.Form1.resources
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\obj\Debug\TiliToliPuzzle.Properties.Resources.resources
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\obj\Debug\TiliToliPuzzle.csproj.GenerateResource.cache
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\obj\Debug\TiliToliPuzzle.csproj.CoreCompileInputs.cache
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\obj\Debug\TiliToliPuzzle.exe
+E:\Programozas\C#\Beadando\TiliToliPuzzle\TiliToliPuzzle\obj\Debug\TiliToliPuzzle.pdb
